@@ -44,7 +44,7 @@ Use twine upload dist/* to upload your package and enter your credentials for th
 
 Install your package from the real PyPI using pip install [your-package].
 
-# Bitbucker 
+# Bitbucket
 ```
 https://stackoverflow.com/questions/38335377/install-python-package-from-private-bitbucket-repo
 
