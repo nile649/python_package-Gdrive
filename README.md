@@ -10,16 +10,16 @@ gdrive("1Z1RqRo0_JiavaZw2yzZG6WETdZQ8qX86", "lol2.zip")
 ```
 # Project Folder
 
-Project Folder {Well}
-│ 
-│──Main Project Folder {Gdrive}
-│  │── <__init__.py> // File from where the main function will acts as import
-│  │── <Gdrive.py> // main func
-│  │── <Gdrive.sh> 
-│── tests {empty}
-│── setup.py
-│── LICENSE 
-│── README.md 
+	Project Folder {Well}
+	│ 
+	│──Main Project Folder {Gdrive}
+	│  │── <__init__.py> // File from where the main function will acts as import
+	│  │── <Gdrive.py> // main func
+	│  │── <Gdrive.sh> 
+	│── tests {empty}
+	│── setup.py
+	│── LICENSE 
+	│── README.md 
 
 # Steps 
 
