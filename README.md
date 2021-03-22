@@ -1,4 +1,4 @@
-Method is Depreicated by Google
+Method is no longer supported by Google
 
 # Test
 
